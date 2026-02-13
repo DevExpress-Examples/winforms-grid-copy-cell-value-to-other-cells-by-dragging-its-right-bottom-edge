@@ -23,7 +23,7 @@ This example demonstrates how to copy the focused cell's value to other cells us
 * [Edit Data. Create Cell Editors. Validate User Input](https://docs.devexpress.com/WindowsForms/753/controls-and-libraries/data-grid/data-editing-and-validation/modify-and-validate-cell-values)
 * [Clipboard - Common Features](https://docs.devexpress.com/WindowsForms/114874/common-features/clipboard)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-grid-copy-cell-value-to-other-cells-by-dragging-its-right-bottom-edge&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-grid-copy-cell-value-to-other-cells-by-dragging-its-right-bottom-edge&~~~was_helpful=no)
 
