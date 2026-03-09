@@ -8,7 +8,7 @@
 
 This example demonstrates how to copy the focused cell's value to other cells using drag and drop (similar to the Microsoft Excel feature):
 
-![WinForms Data Grid - Copy a cell's value to other cells by dragging its bottom-right edge](https://raw.githubusercontent.com/DevExpress-Examples/how-to-copy-a-cells-value-to-other-cells-by-dragging-its-right-bottom-edge-e2621/17.2.3%2B/media/winforms-grid-copy-cells-drag-drop.gif)
+![WinForms Data Grid - Copy a cell's value to other cells by dragging its bottom-right edge](media/winforms-grid-copy-cells-drag-drop.gif)
 
 
 ## Files to Review
@@ -29,3 +29,4 @@ This example demonstrates how to copy the focused cell's value to other cells us
 
 (you will be redirected to DevExpress.com to submit your response)
 <!-- feedback end -->
+
